@@ -1,5 +1,5 @@
 import React from 'react'
-import AdsManagement from '../../components/adsManagement/adsManagement'
+import AdsManagement from '../../components/adsManagement/AdsManagement'
 
 
 

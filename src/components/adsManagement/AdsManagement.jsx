@@ -1,5 +1,5 @@
 import React, { useState } from 'react'
-import AdsCard from './adsCard';
+import AdsCard from './AdsCard'
 import ButtonComponent from '../reUsableComponents/ButtonComponent';
 import TabComponent from './TabComponent';
 import { useNavigate } from 'react-router-dom';

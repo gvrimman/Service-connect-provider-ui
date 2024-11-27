@@ -1,5 +1,5 @@
-import React from 'react';
-import NotificationSection from '../../../components/serviceProvider/notifications/notificationSection';
+import React from "react";
+import NotificationSection from "../../../components/serviceProvider/notifications/notificationSection";
 
 const NotificationsPage = () => {
   return (

@@ -5,7 +5,7 @@ import AddressDetails from './AddressDetails';
 import ActionButton from './ActionButton';
 import CustomModal from './CustomModal';
 import { useNavigate } from 'react-router-dom';
-import shape from '../../assets/images/shape.png';
+import shape from '../../assets/images/Shape.png';
 
 const LeadDetails = () => {
   const [tab, setTab] = useState(false);

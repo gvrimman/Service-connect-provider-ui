@@ -1,7 +1,7 @@
 import React from 'react';
 import { useParams } from 'react-router-dom';
 import CardWithButton from '../../../components/RequestDetails/CardWithButton';
-import HeaderWithProfile from '../../../components/RequestDetails/HeaderWithProfile';
+import HeaderWithProfile from '../../../components/RequestDetails/HeaderWithProfile'
 import Buttons from '../../../components/RequestDetails/Buttons';
 
 function RequestDetails() {

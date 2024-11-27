@@ -1,7 +1,7 @@
 import React from 'react';
 import { useParams } from 'react-router-dom';
 
-import HeaderWithprofile from '../../../components/RequestDetails/HeaderWithProfile';
+import HeaderWithProfile from '../../../components/RequestDetails/HeaderWithProfile'
 
 import CardWithButton from '../../../components/RequestDetails/CardWithButton';
 
@@ -21,7 +21,7 @@ function BookingDetails() {
           {/* Left column (Header and AppointmentCard) */}
           <div className="space-y-6">
             {/* Header with Profile */}
-            <HeaderWithprofile id={id} />
+            <HeaderWithProfile id={id} />
             
             {/* Appointment Card */}
             <AppointmentCard id={id} />
